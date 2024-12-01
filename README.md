@@ -4,7 +4,7 @@
   <strong>
     I am a CSS student trying to achieve my goals.  
     I help young and established businesses grow digitally.  
-    As a Full-Stack Developer, I work with both front-end and back-end technologies to create functional and efficient applications.  
+    My work reflects consistency, quality, optimization, and adherence to industry best practices. As a Full-Stack Developer, I work with both front-end and back-end technologies to create functional and efficient applications.  
     Additionally, I have some experience in WordPress & SEO.
   </strong>
 </p>
