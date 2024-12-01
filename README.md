@@ -1,5 +1,33 @@
 # 💫 About Me:
-I'm currently working on: Completing my backend development using Node, MongoDB, and Express for MernStack projects.<br>Looking to help with: Frontend development using React, JavaScript, and Tailwind CSS, or backend development with Node.js and MongoDB.<br>Currently learning: Advanced MernStack techniques and enhancing my skills in full-stack development.<br>Ask me about: JavaScript, React, Node.js, MongoDB, Express, SEO, WordPress, and frontend development with Tailwind CSS and MUI.<br>Fun facts: I love experimenting with animation libraries like Animate CSS and Wow.js to create interactive web experiences.
+
+<p align="center">
+  <strong>
+    I am a CSS student trying to achieve my goals.  
+    I help young and established businesses grow digitally.  
+    As a Full-Stack Developer, I work with both front-end and back-end technologies to create functional and efficient applications.  
+    Additionally, I have some experience in WordPress & SEO.
+  </strong>
+</p>
+
+---
+
+## My Details Skills:  
+
+### 🥇 Frontend Development:
+- With strong skills in **JavaScript**, **ReactJS**, and **Node.js**, I build responsive and dynamic user interfaces using **HTML**, **CSS**, **Tailwind CSS**, and **React Redux Toolkit**.  
+- I'm experienced with React components, hooks, state management, and working with APIs using **Axios** and **Fetch**.  
+- I also work with libraries like **ReactRouterDom**, **ReactHookForm**, **ReactHelmet**, and **ReactHotToast**.  
+
+### 🥇 Backend Development:  
+- On the back-end, I have experience with **Joi**, **Bcrypt**, **Cores.env**, **JSONWebToken**, **NodeMailer**, and **Stripe** for payment processing.  
+- I apply the **MVC** pattern for cleaner code and use middleware for handling authentication and validation, like **CheckAuth** and **AsyncHandler**.  
+
+### 🥇 WordPress & SEO:  
+- I also have experience with **WordPress** (Elementor, WooCommerce, Landing Pages) and **SEO** (Keyword Research, Competitive Analysis, RankMath, YoastSEO, Meta Titles, and Descriptions).  
+
+### Tools for Professional Communication:  
+- I use **Trello**, **Calendly**, **MS Word**, and **Google Sheets** for efficient and organized communication.
+
 
 
 ## 🌐 Socials:
