@@ -1,32 +1,11 @@
-# 💫 About Me:
+### 👋 About Me
 
-<p align="center">
-  <strong>
-    I am a CSS student trying to achieve my goals.  
-    I help young and established businesses grow digitally.  
-    My work reflects consistency, quality, optimization, and adherence to industry best practices. As a Full-Stack Developer, I work with both front-end and back-end technologies to create functional and efficient applications.  
-    Additionally, I have some experience in WordPress & SEO.
-  </strong>
-</p>
+Final-year Computer Science student at **COMSATS University (CUI)**, graduating in 2025, with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **Database Management Systems**. Passionate about growing as a software engineer and solving real-world problems with scalable, efficient, and user-centric solutions.
 
----
+I've built and deployed full-stack applications using modern technologies like **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL** through academic and personal projects. I also have experience with **REST APIs**, authentication systems (**JWT**, **Firebase Auth**), and development tools such as **Git**, **GitHub**, and **Postman**.
 
-## My Details Skills:  
+🎯 Currently seeking opportunities where I can apply my skills, contribute to impactful projects, and continue learning alongside experienced professionals.
 
-### 🥇 Frontend Development:
-- With strong skills in **JavaScript**, **ReactJS**, and **Node.js**, I build responsive and dynamic user interfaces using **HTML**, **CSS**, **Tailwind CSS**, and **React Redux Toolkit**.  
-- I'm experienced with React components, hooks, state management, and working with APIs using **Axios** and **Fetch**.  
-- I also work with libraries like **ReactRouterDom**, **ReactHookForm**, **ReactHelmet**, and **ReactHotToast**.  
-
-### 🥇 Backend Development:  
-- On the back-end, I have experience with **Joi**, **Bcrypt**, **Cores.env**, **JSONWebToken**, **NodeMailer**, and **Stripe** for payment processing.  
-- I apply the **MVC** pattern for cleaner code and use middleware for handling authentication and validation, like **CheckAuth** and **AsyncHandler**.  
-
-### 🥇 WordPress & SEO:  
-- I also have experience with **WordPress** (Elementor, WooCommerce, Landing Pages) and **SEO** (Keyword Research, Competitive Analysis, RankMath, YoastSEO, Meta Titles, and Descriptions).  
-
-### Tools for Professional Communication:  
-- I use **Trello**, **Calendly**, **MS Word**, and **Google Sheets** for efficient and organized communication.
 
 
 
