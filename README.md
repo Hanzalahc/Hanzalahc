@@ -1,10 +1,10 @@
 ### 👋 About Me
 
-Final-year Computer Science student at **COMSATS University (CUI)**, graduating in 2025, with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **Database Management Systems**. Passionate about growing as a software engineer and solving real-world problems with scalable, efficient, and user-centric solutions.
+Associate Software Engineer graduated from COMSATS University Islamabad (2025) with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.
 
-I've built and deployed full-stack applications using modern technologies like **JavaScript**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL** through academic and personal projects. I also have experience with **REST APIs**, authentication systems (**JWT**, **Firebase Auth**), and development tools such as **Git**, **GitHub**, and **Postman**.
+Through academic and personal projects, I’ve learned how to convert these core concepts into production-level software. I’ve built and deployed full-stack applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), including a complete custom PC planner platform as my Final Year Project.
 
-🎯 Currently seeking opportunities where I can apply my skills, contribute to impactful projects, and continue learning alongside experienced professionals.
+Currently working with .NET Core and Angular, I’m focused on growing my technical skills and real-world software engineering experience. My long-term goal is to become a strong problem solver who can analyze client needs and confidently choose the most suitable and cost-effective technology stack to deliver scalable, maintainable, and impactful solutions.
 
 
 
